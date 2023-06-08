@@ -1,0 +1,15 @@
+C:\Users\romar\Desktop\Geek\Dog_Friend\bin\Debug\net6.0\Dog_Friend.exe
+C:\Users\romar\Desktop\Geek\Dog_Friend\bin\Debug\net6.0\Dog_Friend.deps.json
+C:\Users\romar\Desktop\Geek\Dog_Friend\bin\Debug\net6.0\Dog_Friend.runtimeconfig.json
+C:\Users\romar\Desktop\Geek\Dog_Friend\bin\Debug\net6.0\Dog_Friend.dll
+C:\Users\romar\Desktop\Geek\Dog_Friend\bin\Debug\net6.0\Dog_Friend.pdb
+C:\Users\romar\Desktop\Geek\Dog_Friend\obj\Debug\net6.0\Dog_Friend.csproj.AssemblyReference.cache
+C:\Users\romar\Desktop\Geek\Dog_Friend\obj\Debug\net6.0\Dog_Friend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\romar\Desktop\Geek\Dog_Friend\obj\Debug\net6.0\Dog_Friend.AssemblyInfoInputs.cache
+C:\Users\romar\Desktop\Geek\Dog_Friend\obj\Debug\net6.0\Dog_Friend.AssemblyInfo.cs
+C:\Users\romar\Desktop\Geek\Dog_Friend\obj\Debug\net6.0\Dog_Friend.csproj.CoreCompileInputs.cache
+C:\Users\romar\Desktop\Geek\Dog_Friend\obj\Debug\net6.0\Dog_Friend.dll
+C:\Users\romar\Desktop\Geek\Dog_Friend\obj\Debug\net6.0\refint\Dog_Friend.dll
+C:\Users\romar\Desktop\Geek\Dog_Friend\obj\Debug\net6.0\Dog_Friend.pdb
+C:\Users\romar\Desktop\Geek\Dog_Friend\obj\Debug\net6.0\Dog_Friend.genruntimeconfig.cache
+C:\Users\romar\Desktop\Geek\Dog_Friend\obj\Debug\net6.0\ref\Dog_Friend.dll
